@@ -65,6 +65,41 @@ section h3 {
   background-color: #f9f9f9;
 }
 
+/* Participants section styles */
+.activity-participants {
+  margin-top: 15px;
+  padding: 12px;
+  background-color: #e3f2fd;
+  border-radius: 4px;
+  border: 1px solid #90caf9;
+}
+
+.activity-participants h5 {
+  margin-bottom: 8px;
+  color: #1976d2;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.activity-participants ul {
+  list-style-type: disc;
+  margin-left: 22px;
+  color: #333;
+  font-size: 15px;
+  padding-left: 0;
+}
+
+.activity-participants li {
+  margin-bottom: 4px;
+  padding-left: 2px;
+}
+
+.activity-participants p {
+  color: #666;
+  font-style: italic;
+  margin: 0;
+}
+
 .activity-card h4 {
   margin-bottom: 10px;
   color: #0066cc;
